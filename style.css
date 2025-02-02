@@ -98,11 +98,11 @@ nav {
   -webkit-animation: bounce-top 3.2s ease-out infinite alternate-reverse both;
   animation: bounce-top 3.2s ease-out infinite alternate-reverse both;
 }
-.fa-key ,.fa-train-subway,.fa-street-view , .fa-envelope{
+.fa-fire-burner ,.fa-train-subway,.fa-street-view , .fa-envelope{
   -webkit-animation: bounce-top 3.8s ease-out infinite alternate-reverse both;
   animation: bounce-top 3.8s ease-out infinite alternate-reverse both;
 }
-.fa-person-walking-luggage ,.fa-map-location-dot {
+.fa-person-walking-luggage ,.fa-cloudsmith ,.fa-map-location-dot {
   -webkit-animation: bounce-top 3.6s ease-out infinite alternate-reverse both;
   animation: bounce-top 3.6s ease-out infinite alternate-reverse both;
 }
