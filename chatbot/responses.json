@@ -39,7 +39,7 @@
     },
     "fototram": {
       "type": "image",
-      "content": "./image/test.img.jpeg"
+      "content": "./image/test.img.jpg"
     },
     "help": {
       "type": "text",
